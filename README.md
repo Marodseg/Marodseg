@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Nucleoo**
 
-- 🌱 I’m currently learning **React, Angular, Python, PostgreSQL, ...**
+- 🌱 I’m currently learning **Angular, React, Python, PostgreSQL...**
 
 - 📫 How to reach me **manuelangelrodriguezsegura@gmail.com**
 
