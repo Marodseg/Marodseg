@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marodseg)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelangelrodriguezsegura@gmail.com)
 [![Hiberus](https://img.shields.io/badge/Hiberus-Project%20Manager-00A3E0?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.hiberus.com/)
 
